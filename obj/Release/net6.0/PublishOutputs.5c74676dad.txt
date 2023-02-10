@@ -1,0 +1,7 @@
+C:\Users\azureuser\MyWebApp\out\MyWebApp.exe
+C:\Users\azureuser\MyWebApp\out\appsettings.Development.json
+C:\Users\azureuser\MyWebApp\out\appsettings.json
+C:\Users\azureuser\MyWebApp\out\MyWebApp.dll
+C:\Users\azureuser\MyWebApp\out\MyWebApp.deps.json
+C:\Users\azureuser\MyWebApp\out\MyWebApp.runtimeconfig.json
+C:\Users\azureuser\MyWebApp\out\MyWebApp.pdb
